@@ -5,7 +5,7 @@
 ## Status
 
 * sync with invesume jira
-
+* Add sync from github with smart commit
 
 ## CONTACT TEAM
 
