@@ -4,7 +4,7 @@
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/onjteam/onjteam.github.com/master/LICENSE)
+* sync with invesume jira
 
 
 ## CONTACT TEAM
