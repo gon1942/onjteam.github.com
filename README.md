@@ -2,10 +2,9 @@
 
 [OnJ](http://code.onj.io/) is a decentralized personal broadcasting service. Try to use [Demo](https://hamonia.kr/). You can use it for any purpose, personal or commercial.
 
-## Status
+## History
+- connected internal bitbucket repository
 
-* sync with invesume jira
-* Add sync from github with smart commit
 
 ## CONTACT TEAM
 
