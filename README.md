@@ -3,7 +3,7 @@
 [OnJ](http://code.onj.io/) is a decentralized personal broadcasting service. Try to use [Demo](https://hamonia.kr/). You can use it for any purpose, personal or commercial.
 
 ## History
-- connected internal bitbucket repository
+2018-6-05 connected internal bitbucket repository
 
 
 ## CONTACT TEAM
